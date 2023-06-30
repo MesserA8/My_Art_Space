@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Art Space</string>
+    <string name="sakura_title_anime">Sakura Anime</string>
+    <string name="sakura_title_cartoon">Sakura Cartoon</string>
+    <string name="sakura_title_classic">Sakura Classic</string>
+    <string name="sakura_title_cyberpunk">Sakura Cyberpunk</string>
+    <string name="sakura_title_default">Sakura Default</string>
+    <string name="sakura_title_picasso">Sakura Picasso</string>
+    <string name="artist_picasso">AI Kandinsky-Picasso(2023)</string>
+    <string name="artist_anime">AI Kandinsky-anime(2023)</string>
+    <string name="artist_cartoon">AI Kandinsky-cartoon(2023)</string>
+    <string name="artist_classic">AI Kandinsky-classic(2023)</string>
+    <string name="artist_cyberpunk">AI Kandinsky-cyberpunk(2023)</string>
+    <string name="artist_default">AI Kandinsky-default(2023)</string>
+</resources>
